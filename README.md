@@ -5,7 +5,7 @@ OVERVIEW :__
 + Admin tools for user and project management.
 
 Technologies used :---
-+ Django (Frontend)
++ Django (Framework)
 + Python (Backend)
 + MySQL (Databases)
 
